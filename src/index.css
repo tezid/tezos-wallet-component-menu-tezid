@@ -1,0 +1,38 @@
+.TezosWalletMenuTezID {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.TezosWalletMenuTezID a {
+  outline:none;
+  color: inherit; 
+}
+.TezosWalletMenuTezID .TezosWalletMenuTezIDNoProofs {
+  display: flex;
+  padding: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.TezosWalletMenuTezID .TezosWalletMenuTezIDNoProofs .label {
+  font-size: 0.8em;
+  padding: 0;
+}
+.TezosWalletMenuTezID .TezosWalletMenuTezIDNoProofs .icon img {
+  width: 20px;
+}
+.TezosWalletMenuTezID .TezosWalletMenuTezIDTop {
+  font-size: 0.5em;
+  padding: 0;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.TezosWalletMenuTezID .TezosWalletMenuTezIDProofs {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.TezosWalletMenuTezID .TezosWalletMenuTezIDProofs > div {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
