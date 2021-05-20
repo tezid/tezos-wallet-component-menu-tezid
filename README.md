@@ -2,7 +2,7 @@
 
 > TezID Menu for Tezos Wallet Component
 
-[![NPM](https://img.shields.io/npm/v/tezos-wallet-component-menu-tezid.svg)](https://www.npmjs.com/package/tezos-wallet-component-menu-tezid) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@tezid/tezos-wallet-component-menu-tezid.svg)](https://www.npmjs.com/package/@tezid/tezos-wallet-component-menu-tezid) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 [TezID](https://tezid.net) Menu Item for [Tezos Wallet Component](https://github.com/asbjornenge/tezos-wallet-component). It will query the TezID API for proofs registered to the passed address & network. It will display these items as a menu item under the Tezos Wallet.
 
